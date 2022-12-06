@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "176930088340",
+    "firebase_url": "https://kotlintodo-be9c5-default-rtdb.firebaseio.com",
+    "project_id": "kotlintodo-be9c5",
+    "storage_bucket": "kotlintodo-be9c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176930088340:android:d3de14e47373da5f2d1b81",
+        "android_client_info": {
+          "package_name": "com.example.kotlintodopractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176930088340-hfkc9p2photli3si3bto5qh01bvhsvj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_MWErKxe5INBoE7rVL-VTzWm5_C3wOvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176930088340-hfkc9p2photli3si3bto5qh01bvhsvj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
